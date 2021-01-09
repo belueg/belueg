@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+In my current job I use a GitLab account, so here you will find personal stuff/code.
+
+I work with Vue.JS 
+
+
 <!--
 **belueg/belueg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
