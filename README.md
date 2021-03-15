@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-In my current job I use a GitLab account, so here you will find personal stuff/code.
-
 I work with Vue.JS 
 
 
